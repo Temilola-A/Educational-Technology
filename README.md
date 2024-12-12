@@ -35,7 +35,7 @@ This dataset comprises information on:
 -	Data related to requests grouped by subject, Language, and student level.
 The data was accessed and downloaded in its raw form directly from the platform’s internal system. It includes records spanning a specific time period (May, 2022).
 
-###	Data Format
+### Data Format
 The dataset was provided in a spreadsheet format (Excel), [download here](https://microsoft.com) ,containing key columns such as:
 -	Date: The date the requests occurred.
 -	Status: The number of class held and terminated requests.
@@ -43,24 +43,43 @@ The dataset was provided in a spreadsheet format (Excel), [download here](https:
 -	Feedback: Ratings or comments from students and teachers.
 -	Hour: The time of the day the request was made.
 
-###	Data Reliability
+### Data Reliability
 The dataset was presumed reliable as it originated from the platform’s internal systems. However, to ensure accuracy and completeness, a thorough data preparation and cleaning process was carried out to address potential inconsistencies or missing values.
 
-###	Data preparation and Cleaning
+### Data preparation and Cleaning
 
 #### Steps Taken:
-####	Data Cleaning:
+#### Data Cleaning:
 -	Removed duplicate entries and erroneous records (missing timestamps).
 -	Standardized formats for date-time fields and language names.
-####	Data Aggregation:
+  
+#### Data Aggregation:
 -	Summarized data by daily, hourly, and categorical attributes for trend analysis.
 -	Created calculated metrics such as completion rates and request percentages.
 
-###	Validation:
-
+#### Validation:
 -	Cross-verified data consistency across total counts, sums, and averages to ensure accurate visualization.
-###		Visualization: 
-	Used Excel for dashboards, incorporating slicers for dynamic filtering and trend observation.
+  
+#### Visualization:
+- Used Excel for dashboards, incorporating slicers for dynamic filtering and trend observation.
+
+### Analysis and Insights
+
+#### Overview of the Dataset
+The dataset contains records of class requests and interactions on the platform. It includes the following key columns:
+-	Request Number: A unique identifier for each class request.
+-	Date and Time: The date and specific time the request was made.
+-	Status: Indicates whether a request was completed or terminated. 
+-	Student ID and Teacher ID: Unique identifiers for the involved student and teacher.
+-	Teacher Name: The first and last name of the teacher assigned to the class.
+-	Feedback: Ratings and comments provided by both students and teachers regarding the session.
+-	Conversation SID: A unique identifier for the interaction, useful for tracking issues or replays.
+
+#### Key Metrics and Insights
+  
+  
+
+
 
 
 
