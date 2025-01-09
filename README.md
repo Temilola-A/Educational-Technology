@@ -147,6 +147,20 @@ Negative feedback, (e.g., connection issues, session was too short) accounted fo
 -	Analysis: The “Daily trends for total request, classes, and terminated request” chart shows variations in completion and termination rates.
 
 ### Appendix
+
+Below is the Dashboard 1
+
+![image](https://github.com/user-attachments/assets/16636a30-3be9-4e0c-b832-ecf6630cb11e)
+
+Dashboard 2
+
+![image](https://github.com/user-attachments/assets/98f15c9f-cbc8-4651-8125-72ff2f740558)
+
+Dashboard 3
+
+![image](https://github.com/user-attachments/assets/c6a888e9-b96e-489d-bdb7-eca71292ca74)
+
+
 Here are the screenshots of key sections from the dashboard:
 
 ![image](https://github.com/user-attachments/assets/a03c5cdb-49d6-4808-af11-e35d7b1d4bee)
